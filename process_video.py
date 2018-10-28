@@ -24,5 +24,4 @@ while(capture.isOpened()):
         break
 
 capture.release()
-output.release()
 cv2.destroyAllWindows()
